@@ -24,9 +24,8 @@ Repository for the Official Stand By Your Battles Album
   <li style="color:blue"> Song #7: Trust God Forever Lyrics: LINK WILL BE ADDED SOON - CURRENTLY BEING WRITTEN </li>
   <li style="color:blue"> Song #8: Lead Us Away From Evil Lyrics: LINK WILL BE ADDED SOON - CURRENTLY BEING WRITTEN </li>
   <li style="color:blue"> Song #9: Hear God's Word Lyrics: LINK WILL BE ADDED SOON - CURRENTLY BEING WRITTEN </li>
-  <li style="color:blue"> Song #10: TO BE ADDED </li>
-  <li style="color:blue"> Song #11: TO BE ADDED </li>
-  <li style="color:blue"> Song #12: TO BE ADDED </li>
+  <li style="color:blue"> Song #10: God Stays Forever Lyrics: LINK WILL BE ADDED SOON - CURRENTLY BEING WRITTEN </li>
+  <li style="color:blue"> Song #11: God's Confidence Lyrics - LINK WILL BE ADDED SOON - CURRENTLY BEING WRITTEN </li>
   </ol>
   
   <p style="color:orange"><b> Link To the GitHub Page for the YouTube Link's to Stand By Your Battles Album Songs</b></p>
