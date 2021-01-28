@@ -20,8 +20,8 @@ Repository for the Official Stand By Your Battles Album
   <li style="color:blue"> Song #3: Spring Of God Lyrics: LINK WILL BE ADDED SOON </li>
   <li style="color:blue"> Song #4: God's Strength: LINK WILL BE ADDED SOON CURRENTLY BEING WRITTEN </li>
   <li style="color:blue"> Song #5: Truth of God: LINK WILL BE ADDED SOON CURRENTLY BEING WRITTEN </li>
-  <li style="color:blue"> Song #6: TO BE ADDED </li>
-  <li style="color:blue"> Song #7: TO BE ADDED </li>
+  <li style="color:blue"> Song #6: The Love God Has For Us: LINK WILL BE ADDED SOON - CURRENTLY BEING WRITTEN </li>
+  <li style="color:blue"> Song #7: Trust God Forever: LINK WILL BE ADDED SOON - CURRENTLY BEING WRITTEN </li>
   <li style="color:blue"> Song #8: TO BE ADDED </li>
   <li style="color:blue"> Song #9: TO BE ADDED </li>
   <li style="color:blue"> Song #10: TO BE ADDED </li>
