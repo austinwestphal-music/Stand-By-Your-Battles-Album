@@ -10,7 +10,6 @@
 <li> Song #7: Trust God Forever Link: COMING SOON </li>
 <li> Song #8: Deliver Us Away From Evil Link: COMING SOON </li>
 <li> Song #9: Hear God's Word Link: COMING SOON </li>
-<li> Song #10: TO BE ADDED </li>
-<li> Song #11: TO BE ADDED </li>
-<li> Song #12: TO BE ADDED </li>
+<li> Song #10: God Stays Forever Link: COMING SOON </li>
+<li> Song #11: God's Confidence Link: COMING SOON </li>
 </ol>
