@@ -31,7 +31,7 @@ Repository for the Official Stand By Your Battles Album
   
   <p style="color:orange"><b> Link To the GitHub Page for the YouTube Link's to Stand By Your Battles Album Songs</b></p>
   <ol>
-   <li style="color:blue"> GitHub Page Link With the YouTube Album Video's: COMING SOON </li>
+   <li style="color:blue"> GitHub Page Link With the YouTube Album Video's: https://github.com/sons-of-christ/Stand-By-Your-Battles-Album/blob/main/Stand%20By%20Your%20Battles%20Album%20Links/YouTube%20Video%20Links.md </li>
   </ol>
   
   <p style="color:red"><b> GitHub Page Link for all the YouTube Video Links for the Official Sons Of Christ Song Covers </b></p>
