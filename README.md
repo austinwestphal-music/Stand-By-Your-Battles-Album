@@ -16,7 +16,7 @@ Repository for the Official Stand By Your Battles Album
   <p style="color:green"><b>Links to the song lyrics via the GitHub Pages in this Repository</b></p>
  <ol>
   <li style="color:blue"> Song #1: Stand By Your Battles Lyrics: https://github.com/sons-of-christ/Stand-By-Your-Battles-Album/blob/main/Stand%20By%20Your%20Battles%20album%20Lyrics/Stand%20By%20Your%20Battles%20Lyrics.md </li>
-  <li style="color:blue"> Song #2: Believe In The Lord God Lyrics: LINK WILL BE ADDED SOON </li>
+  <li style="color:blue"> Song #2: Believe In The Lord God Lyrics: https://github.com/sons-of-christ/Stand-By-Your-Battles-Album/blob/main/Stand%20By%20Your%20Battles%20album%20Lyrics/Believe%20In%20The%20Lord%20God%20Lyrics.md </li>
   <li style="color:blue"> Song #3: Spring Of God Lyrics: LINK WILL BE ADDED SOON </li>
   <li style="color:blue"> Song #4: God's Strength: LINK WILL BE ADDED SOON CURRENTLY BEING WRITTEN </li>
   <li style="color:blue"> Song #5: Truth of God: LINK WILL BE ADDED SOON CURRENTLY BEING WRITTEN </li>
