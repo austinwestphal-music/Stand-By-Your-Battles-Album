@@ -8,7 +8,7 @@
 <li> Song #5: Truth of God Link: COMING SOON </li>
 <li> Song #6: The Love God Has For Us Link: COMING SOON </li>
 <li> Song #7: Trust God Forever Link: COMING SOON </li>
-<li> Song #8: TO BE ADDED </li>
+<li> Song #8: Deliver Us Away From Evil Link: COMING SOON </li>
 <li> Song #9: TO BE ADDED </li>
 <li> Song #10: TO BE ADDED </li>
 <li> Song #11: TO BE ADDED </li>
