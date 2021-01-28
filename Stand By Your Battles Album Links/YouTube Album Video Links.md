@@ -6,8 +6,8 @@
 <li> Song #3: Spring of God Link: COMING SOON </li>
 <li> Song #4: God's Strength Link: COMING SOON </li>
 <li> Song #5: Truth of God Link: COMING SOON </li>
-<li> Song #6: TO BE ADDED </li>
-<li> Song #7: TO BE ADDED </li>
+<li> Song #6: The Love God Has For Us Link: COMING SOON </li>
+<li> Song #7: Trust God Forever Link: COMING SOON </li>
 <li> Song #8: TO BE ADDED </li>
 <li> Song #9: TO BE ADDED </li>
 <li> Song #10: TO BE ADDED </li>
