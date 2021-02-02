@@ -6,10 +6,10 @@ Repository for the Official Stand By Your Battles Album
 
 <p style="color:red"><b>Important Links</b></p>
 <ol>
-  <li style="color:blue"> Website Home Page Link: https://wolfloverlel.wixsite.com/sonsofchrist </li>
-  <li style="color:blue"> Website Lyrics and Chords Page Link: https://wolfloverlel.wixsite.com/sonsofchrist/lyrics </li>
-  <li style="color::blue"> YouTube Channel Link: https://www.youtube.com/channel/UCWQBHBrhcKkleHCNB3g_mZQ/ </li>
-  <li style="color:blue"> Instagram Page Link: https://www.instagram.com/sons_of_christ_official/ </li>
+  <li style="color:blue"> Website Home Page Link: https://wolfloverlel.wixsite.com/austinwestphal </li>
+  <li style="color:blue"> Website Lyrics and Chords Page Link: ADDING SOON </li>
+  <li style="color::blue"> YouTube Channel Link: https://www.youtube.com/channel/UCWQBHBrhcKkleHCNB3g_mZQ </li>
+  <li style="color:blue"> Instagram Page Link: https://www.instagram.com/austin__westphal/ </li>
   <li style="color:blue"> Discord Server Invitation Link: https://discord.gg/eqanuNFJWf </li>
   </ol>
   
@@ -33,7 +33,7 @@ Repository for the Official Stand By Your Battles Album
    <li style="color:blue"> GitHub Page Link With the YouTube Album Video's: https://github.com/sons-of-christ/Stand-By-Your-Battles-Album/blob/main/Stand%20By%20Your%20Battles%20Album%20Links/YouTube%20Video%20Links.md </li>
   </ol>
   
-  <p style="color:red"><b> GitHub Page Link for all the YouTube Video Links for the Official Sons Of Christ Song Covers </b></p>
+  <p style="color:red"><b> GitHub Page Link for all the YouTube Video Links for the Official Austin Westphal Song Covers </b></p>
   <ol>
   <li style="color:blue">Song Cover YouTube Link's GitHub Page: https://github.com/sons-of-christ/Stand-By-Your-Battles-Album/blob/main/song%20covers/YouTube%20Links.md </li>
   </ol>
